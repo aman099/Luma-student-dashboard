@@ -214,6 +214,9 @@ nav#navbar ul li a:hover {
   background: none;
   color: #fff;
 }
+#navbar .hamburger-cont span {
+  cursor: pointer;
+}
 .outlined-btn {
   font-size: 13px;
   font-weight: 700;
