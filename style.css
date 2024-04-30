@@ -80,10 +80,11 @@ body {
 /*  */
 
 .site-container {
-  display: flex;
+  /* display: flex;
+  justify-content: center; */
+  gap: 0rem;
   /*  */
   margin: 0 auto;
-  justify-content: center;
 }
 
 aside {
@@ -1024,8 +1025,9 @@ hr {
 }
 
 .tdc-cards-container {
-  display: flex;
-  gap: 1rem;
+  /* display: flex;
+  gap: 1rem; */
+  /*  */
   max-width: 1200px;
   margin: 0 auto;
 }
